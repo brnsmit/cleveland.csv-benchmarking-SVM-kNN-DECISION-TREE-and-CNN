@@ -16,13 +16,11 @@ Implementação do algoritmo k-NN para classificação no conjunto de dados Clev
 
 ### Matriz de Confusão
 
-![Matriz de Confusão k-NN](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/90378938-9dd6-4b93-9147-2644900888b7)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/c434ba10-6730-4a2a-8558-3a2481fce04f)
 
 ### Acurácia
 
-![Acurácia k-NN](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/2612f3f3-2f65-4122-9c06-c4b54098b603)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/e497c295-033a-4007-9a3f-0a748434ed4b)
 
 ## Exercício 2: Árvore de Decisão 🌳
 
@@ -30,13 +28,11 @@ Implementação de uma Árvore de Decisão para classificação no conjunto de d
 
 ### Matriz de Confusão
 
-![Matriz de Confusão Árvore de Decisão](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/90562983-0e74-47a0-8698-984cf553d351)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/e8913f0f-de75-40d7-95a7-1db92962bbfa)
 
 ### Acurácia
 
-![Acurácia Árvore de Decisão](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/ae44155d-e3dc-4240-9650-e51d349a50d0)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/0b88d64a-5179-434e-a020-eb30dbb85103)
 
 ## Exercício 3: SVM 📈
 
@@ -44,18 +40,15 @@ Implementação de SVMs com kernels Linear e RBF para classificação no conjunt
 
 ### Matriz de Confusão (Linear)
 
-![Matriz de Confusão SVM Linear](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/c6b6341a-0970-43bb-a3d0-6f2571ac9ace)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/5eb3c126-9201-448f-9b68-b8d09d1c5ff7)
 
 ### Matriz de Confusão (RBF)
 
-![Matriz de Confusão SVM RBF](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/39ae39cc-6e7f-46c6-b49a-377293f9a0fd)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/24a0d9e2-cfed-49ab-9d10-1141b94cfa5f)
 
 ### Curva de Aprendizado SVM RBF
 
-![Curva de Aprendizado SVM RBF](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/cf82114f-2668-4288-9d12-c3b6b8e19c83)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/1c0e4119-36f0-4472-b98b-80ea722a2edd)
 
 ## Comparação dos Resultados 🆚
 
@@ -110,8 +103,7 @@ model = models.Sequential([
 
 ## Gráficos de Acurácia e Perda 📊
 
-![Acurácia e Perda](![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/00212801-ed7c-49bf-a36c-ef9734b73b6e)
-)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/2fe5a533-db57-464f-b938-bb114afd73d1)
 
 ## Conclusão 🎯
 
