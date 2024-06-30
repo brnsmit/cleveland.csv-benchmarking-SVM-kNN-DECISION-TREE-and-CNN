@@ -8,7 +8,7 @@ Este repositório contém o código fonte de todos os exercícios abaixo em Pyth
 
 * Execute o notebook Python para explorar os diferentes exercícios.
 
-**Código**: `knn_cleveland.py`
+**Código**: `[knn_cleveland.py](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/blob/main/RECPAD_L2.ipynb)`
 
 ## Exercício 1: k-NN 📏
 
