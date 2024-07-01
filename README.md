@@ -103,10 +103,10 @@ model = models.Sequential([
 
 ## Gráficos de Acurácia e Perda 📊
 
-![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/2fe5a533-db57-464f-b938-bb114afd73d1)
+![image](https://github.com/brnsmit/cleveland.csv-benchmarking-SVM-kNN-DECISION-TREE-and-CNN/assets/168189996/ebbbc195-5db6-442d-bede-af2dad1618be)
 
 ## Conclusão 🎯
 
-Após o treinamento, o modelo alcançou uma boa acurácia na base de teste, com o valor de `Acurácia na base de teste: 0.9057999849319458` . Além disso, os gráficos de acurácia e perda durante o treinamento mostram o desempenho do modelo ao longo das épocas.
+Após o treinamento, o modelo alcançou uma boa acurácia na base de teste, com o valor de `Acurácia na base de teste: 0.8802000284194946` . Além disso, os gráficos de acurácia e perda durante o treinamento mostram o desempenho do modelo ao longo das épocas.
 
 O modelo pode ser ajustado e otimizado com diferentes arquiteturas de rede, hiperparâmetros e técnicas de regularização para melhorar ainda mais o desempenho na classificação de imagens do Fashion-MNIST.
